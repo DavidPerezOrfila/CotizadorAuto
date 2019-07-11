@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "lodash": "^4.17.14",
+    "lodash.mergewith": "^4.6.2",
+    "lodash.template": "^4.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
@@ -30,6 +33,6 @@
   },
   "devDependencies": {
     "querystringify": "^2.1.1",
-    "react-transition-group": "^4.1.0"
+    "react-transition-group": "^4.2.1"
   }
 }
